@@ -1,0 +1,212 @@
+.header{
+   width: 1140px;  
+   margin: 20px auto; 
+    text-align: center;
+    background-image: url("../images/donation1.jpg");
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-tittle{
+    padding-top: 200px;
+    font-size: 70px;
+    color: white;
+}
+.header-decs{
+    color: white;
+    font-size: 25px;
+    line-height: 35px;
+}
+.header-btn{
+    height: 50px;
+    width: 150px;
+    margin-bottom: 60px ;
+    background-color: orangered;
+    border: 1px solid orangered;
+border-radius: 10px;
+color: white;
+font-size: 18px;
+}
+.body-tittle{
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 70px;
+}
+.body-description{
+    text-align: center;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(161, 159, 159);
+}
+.btn{
+    text-align: center;
+    margin-top: 50px;
+}
+.body-button{
+    height: 180px;
+    width: 180px;
+   margin-left: 20px;
+    background-color: rgb(250, 241, 229);
+    font-size: 40px;
+    font-weight: bold;
+    color: gray;
+    border: 1px solid rgb(250, 241, 229);
+}
+.button{
+    background-color: rgb(247, 182, 247);
+    border: 3px solid rgb(247, 86, 86);
+    border-radius: 10px;
+    color: red;
+}
+.button-row{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn-des{
+    width: 1100px;
+    border-bottom: 3px solid gray;
+    margin: 0 auto;
+    font-size: 30px;
+    color: gray;
+    padding-bottom: 15px;
+    font-weight: 700px;
+}
+.body-two{
+    width: 1140px;
+    align-items: center;
+    margin: 0 auto;
+
+}
+.container{
+    align-items: center;
+    text-align: center; 
+      
+}
+.container h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.section-descriptions{
+    text-align: center;
+    font-size: 27px;
+    color: gray;
+}
+.section{
+    display: inline-block;
+    align-items: center;
+         margin: 5;
+}
+.section img{
+    padding-top: 40px;
+   }
+.section-plans{
+    background-color: rgb(167, 245, 225);
+    height: 290px;
+    width: 340px;
+  padding-left: 20px;
+    
+}
+.section-play{
+    background-color: rgb(227, 175, 238);
+    height: 290px;
+    width: 340px;
+    padding-left: 20px;
+}
+.section-playing{
+    background-color: rgb(245, 244, 167);
+    height: 290px;
+    width: 340px;
+    padding-left: 20px;
+}
+.section-one {
+   display: flex;
+   align-items: center;
+   margin-top: 100px;
+}
+.section-one img{
+margin-right: 100px;
+}
+.contents h1{
+font-size: 50px;
+font-weight: bold;
+margin-right: 10px;
+}
+.contents p{
+    margin-right: 10px;
+    font-size: 25px;
+    color: gray;
+}
+.contacts h1{
+    font-size: 50px;
+font-weight: bold;
+}
+.contacts p{
+    margin-right: 10px;
+    font-size: 25px;
+    color: gray;
+}
+.btn-section{
+    font-size: 28px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    font-weight: 400;
+    padding: 15px;
+    border: 1px solid red;
+}
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+    
+}
+.input-group-text{
+    margin-left: -1px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.main-text{
+    margin-top: 100px;
+    text-align: center;
+}
+.main-text h1{
+    font-size: 50px;
+    }
+    .main-text p{
+        font-size: 26px;
+        color: gray;
+    }
+    .titTle{
+        height: 200px;
+        width: 800px;
+        background-color: rgb(238, 173, 222);
+        margin:  0 auto;
+    }
+    .form-control{  
+        border: none;
+       margin-top: 95px;
+       padding:10px 30px;
+  border-radius: 5px 0  0 5px;
+    }
+    span{
+        padding-left: 5px;
+        background-color: blue;
+        padding: 8px;
+        border-radius: 0 5px  5px 0;
+      }
+footer{
+    width: 1100px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgb(99, 99, 99);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer b{
+    color: rgb(240, 177, 17);
+    font-size: 35px;
+}
